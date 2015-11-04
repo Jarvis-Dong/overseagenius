@@ -1,0 +1,28 @@
+.am-header-fixed{
+    border-top: 5px solid #208bc5;
+    box-shadow: 0px 1px 8px #666    ;
+    background-color: #fff;
+}
+.header-hidden{
+    height: 101px;
+    width: 100%;
+}
+.header-container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.header-logo{
+    float: left;
+}
+.header-logo i{
+    font-size: 6rem ;
+    color: #208bc5;
+    
+}
+header li{
+    list-style-type: none;
+    float: left;
+}
+header ul {
+    float: left;
+}
